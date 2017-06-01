@@ -1,0 +1,30 @@
+﻿@model IList<TestProfiGroup.Web.Models.NoteViewModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Notes</h2>
+
+<div id="accordion">
+    @foreach (var item in Model)
+    {
+        <h3><a href="#">@item.Title</a></h3>
+        <div style="border: 1px solid gray; padding: 5px;">
+            <p>
+                @item.Content
+            </p>
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id })
+            @using (Html.BeginForm("Delete", "Notes", new { id = item.Id }, FormMethod.Post))
+            {
+                <input type="submit" value="Delete" onclick="return confirm('Are you sure you want to delete this item?');" />
+            }
+        </div>
+    }
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript">
+        $("#accordion").accordion({ autoHeight: false, collapsible: true, heightStyle: "content" });
+    </script>
+}

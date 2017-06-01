@@ -1,0 +1,17 @@
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\TestProfiGroup.BusinessLogic.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\TestProfiGroup.BusinessLogic.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\obj\Debug\TestProfiGroup.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\obj\Debug\TestProfiGroup.BusinessLogic.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\obj\Debug\TestProfiGroup.BusinessLogic.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\Castle.Core.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\Castle.Windsor.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\TestProfiGroup.DataAccess.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\TestProfiGroup.DomainModel.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\MySql.Data.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\TestProfiGroup.DataAccess.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\TestProfiGroup.DomainModel.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\Castle.Core.xml
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\Castle.Windsor.xml
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\MySql.Data.xml
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\RestSharp.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.BusinessLogic\bin\Debug\RestSharp.xml

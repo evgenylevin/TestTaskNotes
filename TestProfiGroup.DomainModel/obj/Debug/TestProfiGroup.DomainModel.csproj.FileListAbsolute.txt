@@ -1,0 +1,5 @@
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DomainModel\bin\Debug\TestProfiGroup.DomainModel.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DomainModel\bin\Debug\TestProfiGroup.DomainModel.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DomainModel\obj\Debug\TestProfiGroup.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DomainModel\obj\Debug\TestProfiGroup.DomainModel.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DomainModel\obj\Debug\TestProfiGroup.DomainModel.pdb

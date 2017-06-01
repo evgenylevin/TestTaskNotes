@@ -1,0 +1,26 @@
+﻿@model TestProfiGroup.Web.Models.NoteViewModel
+
+@using (Html.BeginForm(ViewBag.IsNew ? "Create" : "Edit", "Notes", FormMethod.Post))
+{
+    <text>
+        @Html.ValidationSummary()
+        <br/>
+        @if (!ViewBag.IsNew)
+        {
+            @Html.HiddenFor(x => x.Id)
+        }
+        @Html.LabelFor(x => x.Title)<span style="color:red;">*</span><br/>
+        @Html.TextBoxFor(x => x.Title, new { style="width:300px;"})
+        <div class="error">
+            @Html.ValidationMessageFor(x => x.Title)
+        </div>
+        <br />
+        @Html.LabelFor(x => x.Content)<br />
+        @Html.TextAreaFor(x => x.Content, new { style = "width:300px; height:200px;" })
+        <div class="error">
+            @Html.ValidationMessageFor(x => x.Content)
+        </div>
+        <br />
+        <input type="submit" value="Save" />
+    </text>
+}

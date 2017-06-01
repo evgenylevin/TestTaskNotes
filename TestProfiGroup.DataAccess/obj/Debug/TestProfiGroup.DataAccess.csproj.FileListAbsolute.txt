@@ -1,0 +1,13 @@
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\TestProfiGroup.DataAccess.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\TestProfiGroup.DataAccess.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\obj\Debug\TestProfiGroup.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\obj\Debug\TestProfiGroup.DataAccess.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\obj\Debug\TestProfiGroup.DataAccess.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\Castle.Core.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\Castle.Windsor.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\TestProfiGroup.DomainModel.dll
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\TestProfiGroup.DomainModel.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\Castle.Core.xml
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\Castle.Windsor.xml
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\TestProfiGroup\TestProfiGroup\TestProfiGroup.DataAccess\bin\Debug\MySql.Data.xml
