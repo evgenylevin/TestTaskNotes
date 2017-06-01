@@ -120,7 +120,7 @@ BEGIN
 		sum(data_length + index_length) / 1024 / 1024
 	FROM information_schema.TABLES
 	GROUP BY table_schema 
-	HAVING table_schema = 'information_schema';
+	HAVING table_schema = 'mydb';
 END ;;
 DELIMITER ;
 /*!50003 SET sql_mode              = @saved_sql_mode */ ;
